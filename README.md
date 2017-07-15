@@ -1,3 +1,3 @@
-# evmike2015.github.io
-Mike Evans
-Hi! This is my first attempt at editing the README file.
+# forproductpeople.github.io
+by Mike Evans
+This is the beginning of this readme.
